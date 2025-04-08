@@ -1,0 +1,41 @@
+body{background-color: lightyellow;}
+.banner { background-color: #F4C2C2;
+	color: #25A18E;
+	text-align: center;
+	font-size: 300%;
+	padding: 10px;
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	padding-left: 20px;}
+h1 {text-align: center;}
+h2 {font-weight: normal; 
+	font-size: 200%;
+	text-align: center;}
+h3 {padding: 10px;
+	position: relative;
+	display: flex;
+	align-items:center;
+	justify-content: flex-start;
+	padding-left: 20px;
+	font-size: 400%;
+	text-align: center;}
+p {font-size: 200%; 
+	text-align: center;}
+.footer {
+	background-color:#F4C2C2;
+	color: #004E64;}
+
+nav {display: inline-block;
+	text-decoration: none;
+	font-size: 1.2em;
+	background-color: lightgrey;
+	display: flex;
+	justify-content: center;
+	gap: 50px;}
+.logo {margin-right:5%;
+	margin-top:5%;}
+.slogan {font-size: 40%;
+	margin-top: 200px;}
+.morning {text-align: center;}

@@ -1,0 +1,40 @@
+body {background-color: lightyellow;}
+.logo {margin-right: 5%;
+	position:absolute;
+	top: 10px;
+	left: 10px;}
+.pos {display: block;
+	width: 500px;
+	max-width: 500px;
+	margin: 20px auto;}
+.banner { 
+	background-color: #B2D3C2;
+	color: #9E4244;
+	text-align: center;
+	padding: 10px;
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	padding-left: 20px;}
+.slogan {font-size: 175%;
+		margin-top: 200px;
+		margin-right: 100px;}
+h3 {text-align: center; font-size: larger;}
+p {text-align: center;}
+b {border: 1px solid black;}
+h4 {font-size: 150%; 
+	line-height: 0px; 
+	font-weight: normal;}
+.arrow {font-size: 200%;} 
+div {text-align: center;}
+.footer {
+	background-color:#F4C2C2;
+	color: #004E64;}
+nav {display: inline-block;
+	text-decoration: none;
+	font-size: 1.2em;
+	background-color: lightgrey;
+	display: flex;
+	justify-content: center;
+	gap: 50px;}
